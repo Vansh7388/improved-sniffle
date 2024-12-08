@@ -262,7 +262,51 @@ Based on project experience, identified several areas for future enhancement:
 - Better documentation practices
 - Streamlined deployment process
 
-## 6. Conclusion
+## 6. Team Perception
+
+Throughout the Cheerly project, our team demonstrated a mix of technical strengths and areas for growth. Here is my perspective on the team's capabilities and dynamics:
+
+### Core Development Team
+
+Our core development team, consisting of myself and Vansh Patel, formed a strong technical foundation for the project.
+
+- **Vansh Patel:**  
+  Vansh exhibited excellent technical execution skills, consistently delivering high-quality implementations for complex features like the activity recommendation system, podcast integration, and location services. His ability to manage intricate UI components was also noteworthy. Vansh's code was consistently clean, well-structured, and optimized. He was a reliable and efficient developer who required minimal oversight.
+
+- **My Role as Team Lead:**  
+  As the team lead, I focused on system architecture, critical feature development, and overall technical direction. I strived to maintain high coding standards, perform thorough code reviews, and provide guidance to the team. It was fulfilling to see the team's growth and successful delivery of a sophisticated recommendation platform.
+
+### Support Team Members
+
+Our support team members, Ridham Patel (QA Engineer) and Divya Mistry (Documentation), faced some challenges in terms of technical contributions but added value in their respective areas.
+
+- **Ridham Patel (QA Engineer):**  
+  Ridham struggled with certain technical aspects of the project, requiring considerable guidance for development tasks. However, he compensated by handling crucial non-technical responsibilities diligently. His efforts in test documentation, project tracking, and user testing coordination were commendable and beneficial to the project's progress.
+
+- **Divya Mistry (Documentation):**  
+  Divya, while not actively involved in code development, played a vital role in maintaining comprehensive project documentation. Her well-structured user guides and clear communication materials ensured that the project was well-organized and easy to navigate. Divya's contribution allowed the development team to focus on technical implementations.
+
+### Team Dynamics Reflection
+
+Managing a team with mixed technical skills was an enlightening experience. It highlighted the importance of:
+
+1. **Recognizing individual strengths:**  
+   Identifying and leveraging each team member's unique skills was crucial for optimal task allocation and project success.
+
+2. **Providing targeted support:**  
+   Offering customized guidance and resources to team members based on their technical proficiency helped in their growth and overall project quality.
+
+3. **Encouraging collaboration:**  
+   Fostering a collaborative environment where team members could learn from each other's strengths led to collective growth.
+
+4. **Effective communication:**  
+   Maintaining clear and frequent communication channels, especially when explaining technical concepts, was essential for keeping everyone aligned and informed.
+
+Going forward, I believe investing in structured technical training programs and skill-based task allocation would help bridge the capability gap and enhance overall team performance. Nonetheless, I am proud of what we accomplished together, and I appreciate each team member's contributions in making Cheerly a success.
+
+
+
+## 7. Conclusion
 
 This project has been a significant milestone in honing both technical and leadership capabilities. On the technical front, it fostered growth in:
 
