@@ -245,7 +245,7 @@ The development process could be enhanced by:
    - Code review processes
    - Knowledge transfer sessions
 
-## 6. Team Perception
+## 7. Team Perception
 
 As a senior developer on the Cheerly project, I had the opportunity to work closely with a diverse team of developers and support members. Here are my observations and insights on our team's performance and dynamics:
 
@@ -270,7 +270,7 @@ Working on Cheerly offered ample opportunities for personal and professional dev
 
 From a technical standpoint, I sharpened my problem-solving abilities by optimizing performance, implementing caching mechanisms, employing parallel processing techniques, and refining error handling strategies. This hands-on experience broadened my understanding of best practices and advanced development techniques.
 
-## 7. Conclusion
+## 8. Conclusion
 
 This project has been instrumental in developing my software engineering capabilities. Through implementing complex systems like activity recommendations and podcast integration, I've gained practical experience in:
 
