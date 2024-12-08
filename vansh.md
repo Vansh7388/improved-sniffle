@@ -2,7 +2,8 @@
 **Project:** Cheerly - Mood-Based Content Recommendation Platform  
 **Team Member:** Vansh Patel  
 **Role:** Senior Developer  
-**Duration:** September 2024 - December 2024
+**Duration:** September 2024 - December 2024 <br>
+**Evidence:** [Source code](https://github.com/rajpatel8/Cheerly/tree/Dev)
 
 ## 1. Introduction
 
