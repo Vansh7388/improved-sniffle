@@ -162,23 +162,14 @@ This evolution demonstrates several key learnings:
 3. Separation of concerns in location services
 4. Clean Architecture principles in practice
 
-### 5.2 Technical Architecture and Design Patterns
+### 5.2 Software Engineering Practices
+Working on the podcast recommendation system improved my understanding of:
 
-The project provided extensive experience in applying various design patterns and architectural principles. A significant learning experience came from designing the podcast recommendation system, where I implemented the Observer pattern for content updates and the Strategy pattern for different recommendation algorithms.
-
-```kotlin
-class PodcastRecommendationSystem {
-    private val recommendationStrategy: RecommendationStrategy
-    private val contentObserver: ContentObserver
-    
-    fun initializeRecommendations() {
-        contentObserver.observe()
-            .filter { it.isValid }
-            .map { recommendationStrategy.process(it) }
-            .collect { updateRecommendations(it) }
-    }
-}
-```
+1. Modular Design: Breaking down complex systems into manageable components helped maintain code quality and made testing easier. The podcast system was split into content analysis, mood matching, and recommendation modules.
+   
+2. Error Handling: Real-world API interactions required robust error handling. The TeddyPodcast API integration showed me the importance of graceful degradation and user feedback.
+   
+3. Testing Strategies: Learned to write effective tests for async operations and complex algorithms. This was particularly valuable when implementing mood-based content filtering.
 
 ### 5.3 Problem-Solving and System Design
 
