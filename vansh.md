@@ -273,17 +273,6 @@ Rajkumar demonstrated exceptional technical leadership throughout the project. H
 
 Beyond his technical prowess, Rajkumar maintained high coding standards and performed thorough code reviews. His constructive feedback elevated the quality of our codebase. He also excelled at project management, coordinating tasks effectively, running productive meetings, and ensuring smooth communication among team members.
 
-### Fellow Developers
-
-Collaborating with Rajkumar on the core development team was a rewarding experience. While he focused on the overarching system architecture, I immersed myself in specific feature implementations.
-
-**My Role (Vansh Patel):**  
-- **Activity Recommendation System:** Implemented features that accurately suggested personalized activities to users.  
-- **Podcast Integration:** Integrated diverse content sources, ensuring a seamless user experience.  
-- **Location Services:** Optimized location-based functionalities for performance and reliability.
-
-Throughout this process, I committed to writing clean, modular, and efficient code. Paying attention to best practices, design patterns, and scalability, I delivered features that were both robust and user-friendly.
-
 ### Support Team Contributions
 
 **Ridham Patel (QA Engineer):**  
