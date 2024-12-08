@@ -262,7 +262,7 @@ Beyond his technical prowess, Rajkumar maintained high coding standards and perf
 While Ridham faced technical challenges, his role was crucial in ensuring product quality. His meticulous test documentation and coordination of user testing helped us identify and resolve issues early. His attention to detail significantly contributed to the application’s stability and reliability.
 
 **Divya Mistry (Documentation):**  
-Divya’s comprehensive documentation streamlined team collaboration and knowledge sharing. Her well-organized user guides and project materials were invaluable references, making it easier for everyone to navigate the complexities of the project. Her communication skills ensured that crucial information was readily accessible and understandable.
+Divya’s comprehensive documentation streamlined team collaboration and knowledge sharing. His well-organized user guides and project materials were invaluable references, making it easier for everyone to navigate the complexities of the project. Her communication skills ensured that crucial information was readily accessible and understandable. The only issue was with the technical knowledge and contribution in developing the application.
 
 ### Growth and Learning
 
